@@ -1,0 +1,14 @@
+{
+  "default_ticker": "AAPL",
+  "default_start_date": "2020-01-01",
+  "default_end_date": "2020-12-31",
+  "default_short_window": 20,
+  "default_long_window": 50,
+  "default_signal_threshold": 0.05,
+  "short_window_min": 1,
+  "short_window_max": 100,
+  "long_window_min": 1,
+  "long_window_max": 100,
+  "signal_threshold_min": 0.0,
+  "signal_threshold_max": 1.0
+}
